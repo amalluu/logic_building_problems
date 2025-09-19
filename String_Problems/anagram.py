@@ -1,4 +1,4 @@
-
+#Check if two strings are anagrams
 str1= input("Enter the string1: ")
 str2= input("Enter the string2: ")
 
@@ -9,4 +9,3 @@ if sorted(str1)== sorted(str2):
     print("Yes, It is anagram")
 else:
     print("No, It is not anagram")
-    
