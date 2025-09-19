@@ -41,19 +41,26 @@ Visual pattern generation using loops and logical structures:
 - Hollow square star pattern
 - Hollow pyramid star pattern
 
-## 🚀 Upcoming Sections
+
 
 ### 📝 String Problems
+solved:
+
+- **pallindrome.py** - Check if a string is a palindrome
+- **nonrepeat.py** - Find the first non-repeating character in a string
+- **charcount.py** - Count the frequency of each character in a string
+- **anagram.py** - Check if two strings are anagrams
+
+ *Additional string problems implemented:* 
 - Reverse a string without using extra space
-- Check if a string is a palindrome
-- Find the first non-repeating character in a string
-- Count the frequency of each character in a string
-- Check if two strings are anagrams
 - Implement a basic string compression algorithm
 - Find the longest common prefix among a set of strings
 - Replace all spaces in a string with `%20`
 - Find the longest palindromic substring
 - Print all permutations of a string
+  
+## 🚀 Upcoming Sections
+
 
 ### 🔄 Recursion Problems
 - Compute the factorial of a number
