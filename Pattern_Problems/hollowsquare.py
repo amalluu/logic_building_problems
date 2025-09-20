@@ -1,3 +1,5 @@
+#HOLLOW SQUARE PATTERN
+
 n= 5
 for r in range(n):
     if r==0 or r== n-1 :        # Top and bottom rows
