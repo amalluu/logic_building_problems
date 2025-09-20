@@ -34,11 +34,11 @@ Visual pattern generation using loops and logical structures:
 - **invertedpyramid.py** - Inverted pyramid star pattern
 - **pyramidstar.py** - Pyramid star pattern
 - **X_pattern.py** - Cross star pattern
+- **hollowsquare.py** - Hollow square star pattern
 
 *Additional pattern problems implemented:*
 - Diamond star pattern
 - Downward triangle star pattern
-- Hollow square star pattern
 - Hollow pyramid star pattern
 
 
@@ -50,10 +50,10 @@ solved:
 - **nonrepeat.py** - Find the first non-repeating character in a string
 - **charcount.py** - Count the frequency of each character in a string
 - **anagram.py** - Check if two strings are anagrams
+- **stringcompress.py** - Implement a basic string compression algorithm
 
  *Additional string problems implemented:* 
 - Reverse a string without using extra space
-- Implement a basic string compression algorithm
 - Find the longest common prefix among a set of strings
 - Replace all spaces in a string with `%20`
 - Find the longest palindromic substring
