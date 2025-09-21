@@ -35,6 +35,7 @@ Visual pattern generation using loops and logical structures:
 - **pyramidstar.py** - Pyramid star pattern
 - **X_pattern.py** - Cross star pattern
 - **hollowsquare.py** - Hollow square star pattern
+- **hollowinvertedtri.py** - Hollow inverted triangle
 
 *Additional pattern problems implemented:*
 - Diamond star pattern
@@ -51,6 +52,7 @@ solved:
 - **charcount.py** - Count the frequency of each character in a string
 - **anagram.py** - Check if two strings are anagrams
 - **stringcompress.py** - Implement a basic string compression algorithm
+- **substring.py** - find all substrings of a given string
 
  *Additional string problems implemented:* 
 - Reverse a string without using extra space
