@@ -54,12 +54,13 @@ solved:
 - **stringcompress.py** - Implement a basic string compression algorithm
 - **substring.py** - find all substrings of a given string
 - **palindromesubstring.py** - find all palindromic substrings of a given string
+- **longpall.py** - Find longest palindromic substrings in a string
+
 
  *Additional string problems implemented:* 
 - Reverse a string without using extra space
 - Find the longest common prefix among a set of strings
 - Replace all spaces in a string with `%20`
-- Find the longest palindromic substring
 - Print all permutations of a string
   
 ## 🚀 Upcoming Sections
