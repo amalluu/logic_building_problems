@@ -9,12 +9,12 @@ for i in range(n):
         sub.append(str[i:j])# take substring from index i to j-1 and add to list
 print(f"All substrings: {sub}")
 
-# Find pallindrome substrings
-pallindromes=[]
+# Find palindrome substrings
+palindromes=[]
 for substring in sub:
    
     if substring[::-1]==substring:
-        pallindromes.append(substring)
-print(f"Pallindrome substrings are: {pallindromes}")
+        palindromes.append(substring)
+print(f"palindrome substrings are: {palindromes}")
 
 
