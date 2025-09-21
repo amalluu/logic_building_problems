@@ -53,6 +53,7 @@ solved:
 - **anagram.py** - Check if two strings are anagrams
 - **stringcompress.py** - Implement a basic string compression algorithm
 - **substring.py** - find all substrings of a given string
+- **palindromesubstring.py** - find all palindromic substrings of a given string
 
  *Additional string problems implemented:* 
 - Reverse a string without using extra space
